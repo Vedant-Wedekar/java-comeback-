@@ -27,7 +27,7 @@ public class EmployeeRecord {
         Employee e1 = new Employee();
         e1.show();
 
-        Employee e2 = new Employee(102, 50050.0, "Michel");
+        Employee e2 = new Employee(102, 50050.0, "ANUSHKA KC");
         e2.show();
     }
 }
